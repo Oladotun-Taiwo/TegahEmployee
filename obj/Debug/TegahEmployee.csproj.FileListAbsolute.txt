@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\TegahEmployee\bin\Debug\TegahEmployee.exe.config
+C:\Users\DELL\source\repos\TegahEmployee\bin\Debug\TegahEmployee.exe
+C:\Users\DELL\source\repos\TegahEmployee\bin\Debug\TegahEmployee.pdb
+C:\Users\DELL\source\repos\TegahEmployee\obj\Debug\TegahEmployee.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\TegahEmployee\obj\Debug\TegahEmployee.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TegahEmployee\obj\Debug\TegahEmployee.exe
+C:\Users\DELL\source\repos\TegahEmployee\obj\Debug\TegahEmployee.pdb
